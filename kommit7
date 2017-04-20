@@ -1,0 +1,29 @@
+#include <iostream.h>
+
+long   suma(long a) { return a+a; }
+double suma(double a) { return a+a; }
+
+int main (void)
+{
+double d=123.323;
+long l=123;
+cout<<suma(d)<<endl;
+cout<<suma(l)<<endl;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+//algorytm sciagniety ze strony http://PlayCOM.w.interia.pl
+
+
+
